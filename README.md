@@ -1,5 +1,5 @@
 # Colorful Calculator
-A calculator with a GUI that randomizes colors (fair warning to your eyes)
+A calculator with a GUI that randomizes colors every 5 seconds
 
 ## Getting Started
 This is a Python program that creates a calculator with a colorful theme using the tkinter library. The calculator allows the user to perform basic operations with a color-changing background, and color-changing widgets (buttons and prompt field).
@@ -30,4 +30,4 @@ The prompt at the top of the window will display the numbers and operations you 
 ## Feedback
 If you have any feedback or suggestions on how to improve this program, feel free to reach out to me. Feedback is greatly appreciated.
 
-## WARNING: This program has a theme that involves rapidly changing colors, which can cause some discomfort, and may cause harm to those with photosensitive epilepsy or other visual sensitivities. Please use this program with caution and discretion, and stop using it immediately if you experience any sort of discomfort.
+## WARNING: This program has a theme that involves rapidly changing colors, which may cause some discomfort, and can cause harm to those with photosensitive epilepsy or other visual sensitivities. Please use this program with caution and discretion, and stop using it immediately if you experience any sort of discomfort.
