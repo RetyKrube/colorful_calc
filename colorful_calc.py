@@ -77,7 +77,7 @@ def random_c():
         if isinstance(w, tk.Button):
             w.configure(bg=colors())
     field.configure(bg=colors(), foreground=colors())
-    main_window.after(1000, random_c)
+    main_window.after(5000, random_c)
 
 
 random_c()  # activate the colors
